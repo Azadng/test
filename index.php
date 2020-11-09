@@ -17,3 +17,9 @@
 //git add index.php
 // git add* ou git --all
 // git commit -m "init git"
+
+//git reset index.php //git add l'inverse de git add
+
+//git rm --cached *   ça sort tous les fichiers du staging area vert into rouge
+
+// git push -u origin master
