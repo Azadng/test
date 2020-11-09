@@ -23,3 +23,9 @@
 //git rm --cached *   ça sort tous les fichiers du staging area vert into rouge
 
 // git push -u origin master
+
+// git add --all
+// git commit -m contact.php
+// git push
+
+//git push origin master

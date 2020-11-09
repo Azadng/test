@@ -1,1 +1,3 @@
-<?php  echo 'page contact';
+<?php
+ echo 'page contact';
+ echo 'Blablablablabls';
